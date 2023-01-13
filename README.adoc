@@ -1,0 +1,28 @@
+= Maven, JUnit, Reflection
+
+== Maven
+
+Maven -- система сборки проектов.
+
+Ссылки:
+
+. https://maven.apache.org/[Apache Maven]
+. https://www.jetbrains.com/help/idea/maven-support.html[Maven в Intellij IDEA]
+
+== JUnit
+
+JUnit -- фреймворк для тестирования на JVM
+
+Смотрели на:
+
+. `@Test` -- этой аннотацией помечаем тестовые методы
+. https://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions[Assertions]
+. `@BeforeEach`, `@AfterEach`
+. `@AfterAll`, `@BeforeAll`
+. `@ParameterizedTest` + `@MethodSource`
+
+== Reflection
+
+. link:src/main/java/ru/hse/mavendemo88888/Demo.java[`Demo.java`]
+. https://github.com/diligent-snail/entry-point-task[Мини-ДЗ]
+. https://github.com/diligent-snail/call-me-maybe[Мини-ДЗ] прошлого года
